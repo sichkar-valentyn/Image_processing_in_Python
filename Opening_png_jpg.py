@@ -1,4 +1,18 @@
-# Testing to open images and applying simple filtering
+# File: Opening_png_jpg.py
+# Description: Testing to open images of different format
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# Valentyn N Sichkar. Image processing in Python // GitHub platform. DOI: 10.5281/zenodo.1343603
+
+
+
+
+# Testing to open images of different format
 
 import tkinter as tk
 from PIL import Image, ImageTk
