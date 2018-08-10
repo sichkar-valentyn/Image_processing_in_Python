@@ -10,9 +10,18 @@ Image processing.
 
 ## Content
 Codes (it'll send you to appropriate file):
+* [Opening_png_jpg](https://github.com/sichkar-valentyn/Reinforcement_Learning_in_Python/tree/master/Opening_png_jpg.py)
+* [Converting_RGB_to_GreyScale](https://github.com/sichkar-valentyn/Reinforcement_Learning_in_Python/tree/master/Converting_RGB_to_GreyScale.py)
 
 <br/>
-Theory and experimental results (it'll send you to appropriate page):
+Experimental results (figures and tables on this page):
+
+* <a href="#RGB channels of the image separately">RGB channels of the image separately</a>
+
+### <a name="RGB channels of the image separately">RGB channels of the image separately</a>
+Environment-1 with mobile robot, goal and obstacles
+
+![RGB_channels](images/RGB_channels.png)
 
 <br/>
 
