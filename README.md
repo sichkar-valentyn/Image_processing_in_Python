@@ -1,5 +1,5 @@
 # Image processing in Python
-Experimental results on image processing in Python.
+Experimental results at image processing in Python. Getting data from images in form of matrix with numbers, slicing them into color channels, applying filtering.
 <br/>
 
 ### Reference to:
