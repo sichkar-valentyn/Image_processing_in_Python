@@ -3,7 +3,7 @@ Experimental results at image processing in Python. Getting data from images in 
 <br/>
 
 ### Reference to:
-Valentyn N Sichkar. Neural Networks for computer vision in autonomous vehicles and robotics // GitHub platform.
+Valentyn N Sichkar. Image processing in Python // GitHub platform.
 
 ## Description
 Image processing.
