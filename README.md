@@ -1,12 +1,12 @@
 # Image processing in Python
-Experimental results at image processing in Python. Getting data from images in form of matrix with numbers, slicing them into color channels, applying filtering.
-<br/>
+Experimental results at image processing in Python.
+<br/>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1343603.svg)](https://doi.org/10.5281/zenodo.1343603)
 
 ### Reference to:
-Valentyn N Sichkar. Image processing in Python // GitHub platform.
+Valentyn N Sichkar. Image processing in Python // GitHub platform. DOI: 10.5281/zenodo.1343603
 
 ## Description
-Image processing.
+Image processing. Getting data from images in form of matrix with numbers, slicing them into color channels, applying filtering.
 
 ## Content
 Codes (it'll send you to appropriate file):
@@ -28,4 +28,4 @@ Experimental results (figures and tables on this page):
 ### Copyright (c) 2018 Valentyn N Sichkar
 ### github.com/sichkar-valentyn
 ### Reference to:
-Valentyn N Sichkar. Image processing in Python // GitHub platform.
+Valentyn N Sichkar. Image processing in Python // GitHub platform. DOI: 10.5281/zenodo.1343603
