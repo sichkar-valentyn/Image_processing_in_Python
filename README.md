@@ -6,7 +6,7 @@ Experimental results at image processing in Python.
 Valentyn N Sichkar. Image processing in Python // GitHub platform. DOI: 10.5281/zenodo.1343603
 
 ## Description
-Image processing. Getting data from images in form of matrix with numbers, slicing them into color channels, applying filtering.
+Image processing. Getting data from images in form of matrix with numbers, slicing them into color channels, applying filtering. Code examples with a lot of comments.
 
 ## Content
 Codes (it'll send you to appropriate file):
