@@ -10,8 +10,8 @@ Image processing. Getting data from images in form of matrix with numbers, slici
 
 ## Content
 Codes (it'll send you to appropriate file):
-* [Opening_png_jpg](https://github.com/sichkar-valentyn/Image_processing_in_Python/tree/master/Opening_png_jpg.py)
-* [Converting_RGB_to_GreyScale](https://github.com/sichkar-valentyn/Image_processing_in_Python/tree/master/Converting_RGB_to_GreyScale.py)
+* [Opening_png_jpg](https://github.com/sichkar-valentyn/Image_processing_in_Python/tree/master/Codes/Opening_png_jpg.py)
+* [Converting_RGB_to_GreyScale](https://github.com/sichkar-valentyn/Image_processing_in_Python/tree/master/Codes/Converting_RGB_to_GreyScale.py)
 
 <br/>
 Experimental results (figures and tables on this page):
