@@ -18,6 +18,8 @@ Experimental results (figures and tables on this page):
 
 * <a href="#RGB channels of the image separately">RGB channels of the image separately</a>
 
+<br/>
+
 ### <a name="RGB channels of the image separately">RGB channels of the image separately</a>
 
 ![RGB_channels](images/RGB_channels.png)
