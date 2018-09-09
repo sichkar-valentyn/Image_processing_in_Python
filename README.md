@@ -49,15 +49,6 @@ image_np = np.array(input_image)
 # Using formula:
 # Y' = 0.299 R + 0.587 G + 0.114 B
 image_GrayScale = image_np[:, :, 0] * 0.299 + image_np[:, :, 1] * 0.587 + image_np[:, :, 2] * 0.114
-# Checking the type of the array
-print(type(image_GrayScale))  # <class 'numpy.ndarray'>
-# Checking the shape of the array
-print(image_GrayScale.shape)  # (270, 480)
-# Giving the name to the window with figure
-plt.figure('GrayScale image from RGB')
-# Showing the image by using obtained array
-plt.imshow(image_GrayScale, cmap=plt.get_cmap('gray'))
-plt.show()
 ```
 
 Setting Hyperparameters and applying Pad frame for input image.
@@ -85,13 +76,10 @@ Declaring filters for **Edge Detection**.
 <br/>Consider following part of the code:
 
 ```py
-# Declaring standard filters (kernel) with size 3x3 for edge detection
+# Declaring standard filters (kernels) with size 3x3 for edge detection
 filter_1 = np.array([[1, 0, -1], [0, 0, 0], [-1, 0, 1]])
 filter_2 = np.array([[0, 1, 0], [1, -4, 1], [0, 1, 0]])
 filter_3 = np.array([[-1, -1, -1], [-1, 8, -1], [-1, -1, -1]])
-# Checking the shape
-print(filter_1.shape, filter_2.shape, filter_3.shape)
-# ((3, 3) (3, 3) (3, 3)
 ```
 
 Creating function to delete negative values from resulted image.
