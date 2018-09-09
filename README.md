@@ -25,7 +25,7 @@ Codes (it'll send you to appropriate file):
 Experimental results (figures and tables on this page):
 
 * <a href="#RGB channels of the image separately">RGB channels of the image separately</a>
-* <a href="#Simple Filtering">Simple Filtering</a>
+* <a href="#Examples of Simple Filtering">Examples of Simple Filtering</a>
 
 <br/>
 
@@ -35,7 +35,7 @@ Experimental results (figures and tables on this page):
 
 <br/>
 
-### <a name="Simple Filtering">Simple Filtering</a>
+### <a name="Examples of Simple Filtering">Examples of Simple Filtering</a>
 
 ```py
 import numpy as np
@@ -44,7 +44,7 @@ import numpy as np
 
 ![Four_Filters](images/Four_Filters.png)
 
-Full code is available here: [Symple_Filtering.py](https://github.com/sichkar-valentyn/Image_processing_in_Python/tree/master/Codes/Symple_Filtering.py)
+Full code is available here: [Simple_Filtering.py](https://github.com/sichkar-valentyn/Image_processing_in_Python/tree/master/Codes/Simple_Filtering.py)
 
 <br/>
 
