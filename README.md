@@ -221,7 +221,7 @@ plt.show()
 
 ```
 
-![Convolution_with_filters_simple_filtering](images/Convolution_with_filters_simple_filtering.png)
+![Simple_filtering_with_convolution](images/Simple_filtering_with_convolution.png)
 
 Full code is available here: [Simple_Filtering.py](https://github.com/sichkar-valentyn/Image_processing_in_Python/tree/master/Codes/Simple_Filtering.py)
 
