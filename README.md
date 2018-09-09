@@ -37,7 +37,14 @@ Experimental results (figures and tables on this page):
 
 ### <a name="Simple Filtering">Simple Filtering</a>
 
-![RGB_channels](images/RGB_channels.png)
+```py
+import numpy as np
+
+```
+
+![Four_Filters](images/Four_Filters.png)
+
+Full code is available here: [Symple_Filtering.py](https://github.com/sichkar-valentyn/Image_processing_in_Python/tree/master/Codes/Symple_Filtering.py)
 
 <br/>
 
