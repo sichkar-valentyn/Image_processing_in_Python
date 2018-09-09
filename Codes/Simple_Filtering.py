@@ -1,3 +1,17 @@
+# File: Simple_Filtering.py
+# Description: Example on simple filtering for edge detection
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# Valentyn N Sichkar. Image processing in Python // GitHub platform. DOI: 10.5281/zenodo.1343603
+
+
+
+
 # Input RGB image and implementing simple filtering
 
 # Importing needed libraries
