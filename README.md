@@ -19,15 +19,23 @@ Image processing. Getting data from images in form of matrix with numbers, slici
 Codes (it'll send you to appropriate file):
 * [Opening_png_jpg](https://github.com/sichkar-valentyn/Image_processing_in_Python/tree/master/Codes/Opening_png_jpg.py)
 * [Converting_RGB_to_GreyScale](https://github.com/sichkar-valentyn/Image_processing_in_Python/tree/master/Codes/Converting_RGB_to_GreyScale.py)
+* [Symple_Filtering](https://github.com/sichkar-valentyn/Image_processing_in_Python/tree/master/Codes/Symple_Filtering.py)
 
 <br/>
 Experimental results (figures and tables on this page):
 
 * <a href="#RGB channels of the image separately">RGB channels of the image separately</a>
+* <a href="#Simple Filtering">Simple Filtering</a>
 
 <br/>
 
 ### <a name="RGB channels of the image separately">RGB channels of the image separately</a>
+
+![RGB_channels](images/RGB_channels.png)
+
+<br/>
+
+### <a name="Simple Filtering">Simple Filtering</a>
 
 ![RGB_channels](images/RGB_channels.png)
 
