@@ -31,7 +31,7 @@ Experimental results (figures and tables on this page):
 
 ### <a name="RGB channels of the image separately">RGB channels of the image separately</a>
 
-![RGB_channels](images/RGB_channels_of _image.png)
+![RGB_channels](images/RGB_channels_of_image.png)
 
 <br/>
 
