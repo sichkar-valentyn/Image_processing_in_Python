@@ -51,7 +51,7 @@ image_np = np.array(input_image)
 image_GrayScale = image_np[:, :, 0] * 0.299 + image_np[:, :, 1] * 0.587 + image_np[:, :, 2] * 0.114
 ```
 
-Setting Hyperparameters and applying **Pad frame** for input image.
+Setting **Hyperparameters** and applying **Pad frame** for input image.
 <br/>Consider following part of the code:
 
 ```py
