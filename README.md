@@ -51,7 +51,7 @@ image_np = np.array(input_image)
 image_GrayScale = image_np[:, :, 0] * 0.299 + image_np[:, :, 1] * 0.587 + image_np[:, :, 2] * 0.114
 ```
 
-Setting Hyperparameters and applying Pad frame for input image.
+Setting Hyperparameters and applying **Pad frame** for input image.
 <br/>Consider following part of the code:
 
 ```py
@@ -82,7 +82,7 @@ filter_2 = np.array([[0, 1, 0], [1, -4, 1], [0, 1, 0]])
 filter_3 = np.array([[-1, -1, -1], [-1, 8, -1], [-1, -1, -1]])
 ```
 
-Creating function to delete negative values from resulted image.
+Creating function to **delete negative values** from resulted image, also known as **ReLU function**.
 <br/>Consider following part of the code:
 
 ```py
@@ -97,7 +97,7 @@ def relu(array):
     return result
 ```
 
-Creating function to delete values that are more than 255.
+Creating function to **delete values that are more than 255**.
 <br/>Consider following part of the code:
 
 ```py
@@ -115,7 +115,7 @@ def image_pixels(array):
     return result
 ```
 
-Implementing filtering for **Edge Detection** also known as **Convolution Operation**.
+Implementing filtering for **Edge Detection**, also known as **Convolution Operation**.
 <br/>Consider following part of the code:
 
 ```py
