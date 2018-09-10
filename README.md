@@ -25,7 +25,7 @@ Codes (it'll send you to appropriate file):
 Experimental results (figures and tables on this page):
 
 * <a href="#RGB channels of the image separately">RGB channels of the image separately</a>
-* <a href="#Examples of Simple Filtering">Examples of Simple Filtering</a>
+* <a href="#Examples of Simple Filtering for Edge Detection">Examples of Simple Filtering for Edge Detection</a>
 
 <br/>
 
@@ -35,7 +35,7 @@ Experimental results (figures and tables on this page):
 
 <br/>
 
-### <a name="Examples of Simple Filtering">Examples of Simple Filtering</a>
+### <a name="Examples of Simple Filtering for Edge Detection">Examples of Simple Filtering for Edge Detection</a>
 Taking RGB image as input, converting it to GrayScale.
 <br/>Consider following part of the code:
 
