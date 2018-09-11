@@ -36,7 +36,7 @@ Experimental results (figures and tables on this page):
 <br/>
 
 ### <a name="Examples of Simple Filtering for Edge Detection">Examples of Simple Filtering for Edge Detection</a>
-Taking RGB image as input, converting it to GrayScale.
+Taking **RGB image** as input, converting it to **GrayScale**.
 <br/>Consider following part of the code:
 
 ```py
