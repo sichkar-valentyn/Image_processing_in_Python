@@ -82,7 +82,7 @@ filter_2 = np.array([[0, 1, 0], [1, -4, 1], [0, 1, 0]])
 filter_3 = np.array([[-1, -1, -1], [-1, 8, -1], [-1, -1, -1]])
 ```
 
-Creating function to **delete negative values** from resulted image, also known as **ReLU function**.
+Creating function to **delete negative values** from resulted image, also known as **ReLU function**, by substituting them with **0**.
 <br/>Consider following part of the code:
 
 ```py
@@ -97,7 +97,7 @@ def relu(array):
     return result
 ```
 
-Creating function to **delete values that are more than 255**.
+Creating function to **delete values that are more than 255** by substituting them with **255**.
 <br/>Consider following part of the code:
 
 ```py
