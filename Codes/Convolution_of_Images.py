@@ -1,3 +1,17 @@
+# File: Convolution_of_Images.py
+# Description: Image processing via convolution
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# Valentyn N Sichkar. Image processing in Python // GitHub platform. DOI: 10.5281/zenodo.1343603
+
+
+
+
 # Image processing via convolution
 # Importing needed library
 import numpy as np
