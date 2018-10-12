@@ -18,6 +18,14 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.misc import imread, imresize
 
+"""
+'imread' and 'imresize' will be removed from new version of 'Scipy 1.2.0'
+There are other options.
+For 'imread':
+    from matplotlib.pyplot import imread
+    from imageio import imread
+"""
+
 # Reading images
 cat, dog = imread('images/cat.jpg'), imread('images/dog.jpg')
 
