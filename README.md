@@ -146,7 +146,7 @@ Full code is available here: [Simple_Filtering.py](https://github.com/sichkar-va
 
 ### <a name="Convolution of Images">Convolution of Images</a>
 Implementing image processing via convolution operation.
-<br/>Creating dunction for convolution, defining filters and showing resulted images.
+<br/>Creating function for convolution, defining filters and showing resulted images.
 
 Reading images, cropping and resizing them.
 <br/>Consider following part of the code:
