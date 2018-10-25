@@ -25,19 +25,19 @@ Codes (it'll send you to appropriate file):
 <br/>
 Experimental results (figures and tables on this page):
 
-* <a href="#RGB channels of the image separately">RGB channels of the image separately</a>
-* <a href="#Examples of Simple Filtering for Edge Detection">Examples of Simple Filtering for Edge Detection</a>
-* <a href="#Convolution of Images">Convolution of Images</a>
+* [RGB channels of the image separately](#rgb-channels-of-the-image-separately)
+* [Examples of Simple Filtering for Edge Detection](#examples-of-simple-filtering-for-edge-detection)
+* [Convolution of Images](#convolution-of-images)
 
 <br/>
 
-### <a name="RGB channels of the image separately">RGB channels of the image separately</a>
+### <a id="rgb-channels-of-the-image-separately">RGB channels of the image separately</a>
 
 ![RGB_channels](images/RGB_channels_of_image.png)
 
 <br/>
 
-### <a name="Examples of Simple Filtering for Edge Detection">Examples of Simple Filtering for Edge Detection</a>
+### <a id="examples-of-simple-filtering-for-edge-detection">Examples of Simple Filtering for Edge Detection</a>
 Taking **RGB image** as input, converting it to **GrayScale**.
 <br/>Consider following part of the code:
 
@@ -144,7 +144,7 @@ Full code is available here: [Simple_Filtering.py](https://github.com/sichkar-va
 
 <br/>
 
-### <a name="Convolution of Images">Convolution of Images</a>
+### <a id="convolution-of-images">Convolution of Images</a>
 Implementing image processing via convolution operation.
 <br/>Creating function for convolution, defining filters and showing resulted images.
 
