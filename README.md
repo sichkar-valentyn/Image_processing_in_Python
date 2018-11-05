@@ -1,5 +1,5 @@
 # Image processing in Python
-Experimental results at image processing in Python.
+Experimental results on Image Processing in Python.
 <br/>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1343603.svg)](https://doi.org/10.5281/zenodo.1343603)
 
 ### Reference to:
